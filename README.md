@@ -8,6 +8,8 @@
 ![LoRA](https://img.shields.io/badge/LoRA-Parameter%20Efficient%20Fine--Tuning-blue?style=for-the-badge)
 ![Gradio](https://img.shields.io/badge/gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+
+
 This Jupyter notebook demonstrates how to fine-tune the **Llama-3.2-3B-Instruct** model using the **Unsloth** library and the **FineTome-100k** dataset. The notebook includes model training, inference, and an interactive Gradio interface for testing the fine-tuned model.
 
 ## Overview
